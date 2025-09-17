@@ -1,0 +1,11 @@
+{
+    "asset": "022df22899967bf40bce748d3d9d1c3a",
+    "fileName": "019957a3-2f50-7325-bd39-8d9680b088da.pose.json",
+    "prompt": "fighting kick",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 418929809,
+    "w3CTraceId": "8a9ba24b38f037e49c50e32375338d1d",
+    "isTrimmed": false
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "022df22899967bf40bce748d3d9d1c3a",
+    "fileName": "019957a7-60df-7099-8525-974182607577.pose.json",
+    "prompt": "fighting punch",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 480965893,
+    "w3CTraceId": "d7d8272bae846000cae6161ef4909f7e",
+    "isTrimmed": false
+}
